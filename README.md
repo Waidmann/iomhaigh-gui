@@ -13,4 +13,4 @@ This git repository contains the GUI for the project. It is written in angular 1
 
 ## Result
 
-You can view the deployed project [here](http://www.waidmann.dev/)!
+You can view the deployed project [here](http://www.waidmann.dev/)! (soon™)
